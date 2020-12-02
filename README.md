@@ -14,6 +14,8 @@
 
 ## ⭐ Posts
 
+- [Create a Multi-step Form!](https://www.instagram.com/p/CFDvMLigwAv/) - [Repository](https://github.com/bartzalewski/multi-step-form-hooks)
+- [Create a Firebase CRUD App!](https://www.instagram.com/p/CEkP3rgA1yh/) - [Repository](https://github.com/bartzalewski/firebase-crud-app)
 - [Create a Rich Text Editor!](https://www.instagram.com/p/CEUIak-AX1a/) - [Repository](https://github.com/bartzalewski/ckeditor-tutorial)
 - [Create an Instagram Feed Search!](https://www.instagram.com/p/CD4Td4IgLHL/) - [Repository](https://github.com/bartzalewski/insta-feed)
 - [Create a Typing Game with React!](https://www.instagram.com/p/CDn4mPLgWJx/) - [Repository](https://github.com/bartzalewski/typing-game)
