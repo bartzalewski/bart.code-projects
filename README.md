@@ -14,6 +14,7 @@
 
 ## ⭐ Posts
 
+- [Create a Google Search!](https://www.instagram.com/p/CIem3RUgL4U/) - [Repository](https://github.com/bartzalewski/google-search-api)
 - [Create a Multi-step Form!](https://www.instagram.com/p/CFDvMLigwAv/) - [Repository](https://github.com/bartzalewski/multi-step-form-hooks)
 - [Create a Firebase CRUD App!](https://www.instagram.com/p/CEkP3rgA1yh/) - [Repository](https://github.com/bartzalewski/firebase-crud-app)
 - [Create a Rich Text Editor!](https://www.instagram.com/p/CEUIak-AX1a/) - [Repository](https://github.com/bartzalewski/ckeditor-tutorial)
